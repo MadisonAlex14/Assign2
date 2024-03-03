@@ -1,0 +1,8 @@
+Is the stack empty? Yes
+Top of the stack: 15
+After popping, top of the stack: 10
+Average value of stack elements: 7.5
+
+C:\Users\madis\source\repos\Assignment2\x64\Debug\Assignment 2 - Q2.exe (process 15632) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
